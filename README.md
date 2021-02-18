@@ -1,4 +1,4 @@
-# test_app
+# test_flutter_app
 
 A Flutter application.
 
